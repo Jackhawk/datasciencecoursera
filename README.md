@@ -1,4 +1,8 @@
 # datasciencecoursera
 Jack Cheney &lt;- Coursera Data Science
 
-**Coursera notes and _some_ of the assignments**
+This repo contains course projects for the Coursera Data Science track
+
+**GettingCleaningData_Project**
+
+The tidy data project.  
